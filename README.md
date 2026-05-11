@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/工具-MATLAB%20%7C%20Python-orange?style=flat-square" />
 </p>
 
-> 贵州师范大学基础心理学博士研究生 · 认知神经科学方向
+> 应激与认知交互 · 认知神经科学方向
 
 ---
 
