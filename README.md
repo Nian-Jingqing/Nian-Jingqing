@@ -14,7 +14,7 @@
 
 | 年份 | 学位 | 专业 | 院校 |
 |------|------|------|------|
-| 2020 — 至今 | 博士（在读） | 基础心理学 | 贵州师范大学（导师：罗禹教授） |
+| 2020 — 2025 | 教育学博士 | 基础心理学 | 贵州师范大学（导师：罗禹教授） |
 | 2017 — 2020 | 理学硕士 | 基础心理学 | 贵州师范大学（导师：罗禹教授） |
 | 2013 — 2017 | 理学学士 | 应用心理学 | 湖南科技大学 |
 
@@ -37,10 +37,8 @@
 ### 期刊论文（英文）
 
 1. **Nian, J.**, Zhang, Y., & Luo, Y. (2026). Adaptive suppression of threat-history stimuli. *Attention, Perception, & Psychophysics*, 88, 1. `SCIE/SSCI · JCR Q3 · 中科院3区`
-
-2. **Nian, J.**, Yang, R., Xie, J., Zhang, Y., & Luo, Y. (2025). Acute stress impairs target enhancement rather than distractor suppression in attention selection: evidence from the N2pc and PD. *BMC Psychology*, 13(1), 1–13. `SSCI · JCR Q1 · 中科院3区`
-
-3. **Nian, J.**, Hu, S., Feng, L., Lin, L., Yang, R., Zhang, Y., & Luo, Y. (2025). An Open-Access Dataset of Acute Stress Responses Induced by MAST in Healthy Chinese Individuals. *Scientific Data* (Under review). `SCI · JCR Q1 · 中科院2区`
+2. **Nian, J.**, Hu, S., Feng, L., Lin, L., Yang, R., Zhang, Y., & Luo, Y. (2026). An Open-Access Dataset of Acute Stress Responses Induced by MAST in Healthy Chinese Individuals. *Scientific Data*. `SCI · JCR Q1 · 中科院2区`
+3. **Nian, J.**, Yang, R., Xie, J., Zhang, Y., & Luo, Y. (2025). Acute stress impairs target enhancement rather than distractor suppression in attention selection: evidence from the N2pc and PD. *BMC Psychology*, 13(1), 1–13. `SSCI · JCR Q1 · 中科院3区`
 
 4. **Nian, J.**, Zhang, D., Zhang, Y., & Luo, Y. (2025). Unfolding Suppression: Statistical learning drives suppression through dynamic attentional states modulated by threat. *Cognitive Psychology* (Under review). `SCI · JCR Q1 · 中科院1区 Top`
 
