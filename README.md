@@ -12,7 +12,7 @@
 
 ## 📬 联系方式
 
-- 📧 Email: nianjingqing AT 126.com
+- 📧 Email: nianjingqing@126.com
 - 🏫 单位: 北京师范大学 心理学部
 
 ---
@@ -48,25 +48,16 @@
 
 ---
 
-## 📄 代表性发表
-
-### 期刊论文（英文）
+## 📄 科研论文
 
 1. **Nian, J.**, Zhang, D., Zhang, Y., & Luo, Y. (2026). Unfolding Suppression: Statistical learning drives suppression through dynamic attentional states modulated by threat. *Cognitive Psychology*,167,101847. `SCIE/SSCI · JCR Q1 · 中科院1区 Top`
 2. **Nian, J.**, Zhang, Y., & Luo, Y. (2026). Adaptive suppression of threat-history stimuli. *Attention, Perception, & Psychophysics*, 88, 1. `SCIE/SSCI · JCR Q3 · 中科院3区`
-3. **Nian, J.**, Hu, S., Feng, L., Lin, L., Yang, R., Zhang, Y., & Luo, Y. (2026). An Open-Access Dataset of Acute Stress Responses Induced by MAST in Healthy Chinese Individuals. *Scientific Data*. `SCI · JCR Q1 · 中科院2区`
+3. **Nian, J.**, Hu, S., Feng, L., Lin, L., Yang, R., Zhang, Y., & Luo, Y. (2026). An Open-Access Dataset of Acute Stress Responses Induced by MAST in Healthy Chinese Individuals. *Scientific Data*. `SCIE · JCR Q1 · 中科院2区`
 4. **Nian, J.**, Yang, R., Xie, J., Zhang, Y., & Luo, Y. (2025). Acute stress impairs target enhancement rather than distractor suppression in attention selection: evidence from the N2pc and PD. *BMC Psychology*, 13(1), 1–13. `SSCI · JCR Q1 · 中科院3区`
-
-
-
-### 期刊论文（中文）
-
 5. **念靖晴**, 陈曦, 陈方方, 牛霞, 罗禹. (2025). 事件相关电位研究的统计检验力分析：影响因素及方法. *应用心理学*, 31(02), 179–192. `CSSCI`
 6. 张禹,林丽钦, **念靖晴**. (2022). 应激心向影响特定人群心理健康. *中国社会科学报*, 2022年11月3日第2522期. `国家级权威报刊`
 7. 罗禹, **念靖晴**, 王薇薇. (2021). 心理学脑电研究方法探讨. *中国社会科学报*, 2021年3月18日第2128期. `国家级权威报刊`
 8. 罗禹, **念靖晴**, 鲍未, 张静静, 赵守盈, 潘运, 许爽, 张禹. (2020). 急性应激损害对威胁刺激的注意解除. *心理学报*, 52(1), 26–37. `心理学中文权威期刊`
-
----
 
 ## 🏆 科研奖励
 
@@ -95,5 +86,5 @@
 ---
 
 <p align="center">
-  <i>持续探索注意与情绪的认知神经机制 · Exploring the cognitive neuroscience of attention and emotion</i>
+  <i>持续探索情绪与认知的交互 · Exploring the neuroscience of emotion and cognitive</i>
 </p>
