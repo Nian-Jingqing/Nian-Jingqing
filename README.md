@@ -12,7 +12,7 @@
 
 ## 📬 联系方式
 
-- 📧 Email: nianjingqing@126.com
+- 📧 Email: nianjingqing AT 126.com
 - 🏫 单位: 北京师范大学 心理学部
 
 ---
