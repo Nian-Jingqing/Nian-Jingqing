@@ -1,7 +1,7 @@
 # 念靖晴 | Jingqing Nian
 
 <p align="left">
-  <img src="https://img.shields.io/badge/研究方向-情绪与注意认知交互-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/研究方向-应激与认知交互-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/方法-EEG%20%7C%20Eye--tracking%20%7C%20行为学-green?style=flat-square" />
   <img src="https://img.shields.io/badge/工具-MATLAB%20%7C%20Python-orange?style=flat-square" />
 </p>
@@ -50,7 +50,7 @@
 
 ## 📄 科研论文
 
-1. **Nian, J.**, Zhang, D., Zhang, Y., & Luo, Y. (2026). Unfolding Suppression: Statistical learning drives suppression through dynamic attentional states modulated by threat. *Cognitive Psychology*,167,101847. `SCIE/SSCI · JCR Q1 · 中科院1区 Top`
+1. **Nian, J.**, Zhang, D., Zhang, Y., & Luo, Y. (2026). Unfolding Suppression: Statistical learning drives suppression through dynamic attentional states modulated by threat. *Cognitive Psychology*,167,101847. `SCIE/SSCI · JCR Q2 · 中科院1区 Top`
 2. **Nian, J.**, Zhang, Y., & Luo, Y. (2026). Adaptive suppression of threat-history stimuli. *Attention, Perception, & Psychophysics*, 88, 1. `SCIE/SSCI · JCR Q3 · 中科院3区`
 3. **Nian, J.**, Hu, S., Feng, L., Lin, L., Yang, R., Zhang, Y., & Luo, Y. (2026). An Open-Access Dataset of Acute Stress Responses Induced by MAST in Healthy Chinese Individuals. *Scientific Data*. `SCIE · JCR Q1 · 中科院2区`
 4. **Nian, J.**, Yang, R., Xie, J., Zhang, Y., & Luo, Y. (2025). Acute stress impairs target enhancement rather than distractor suppression in attention selection: evidence from the N2pc and PD. *BMC Psychology*, 13(1), 1–13. `SSCI · JCR Q1 · 中科院3区`
