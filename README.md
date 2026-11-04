@@ -50,7 +50,7 @@
 
 ## 📄 科研论文
 
-1.**Nian, J.**, Tan J., Zhang, D., Zhang, Y., & Luo, Y. (2026).Spatial statistical learning shapes the suppression of threat-associated distractors. *npj Science of Learning*(Accept). `SCIE/SSCI · JCR Q1 · 中科院2区 ` 
+1.**Nian, J.**, Tan J., Zhang, D., Zhang, Y., & Luo, Y. (2026).Spatial statistical learning shapes the suppression of threat-associated distractors. *npj Science of Learning*(Accept). `SCIE/SSCI · JCR Q1 · 中科院2区` 
 2. **Nian, J.**, Zhang, D., Zhang, Y., & Luo, Y. (2026). Unfolding Suppression: Statistical learning drives suppression through dynamic attentional states modulated by threat. *Cognitive Psychology*,167,101847. `SCIE/SSCI · JCR Q2 · 中科院1区 Top`
 3. **Nian, J.**, Zhang, Y., & Luo, Y. (2026). Adaptive suppression of threat-history stimuli. *Attention, Perception, & Psychophysics*, 88, 1. `SCIE/SSCI · JCR Q3 · 中科院3区`
 4. **Nian, J.**, Hu, S., Feng, L., Lin, L., Yang, R., Zhang, Y., & Luo, Y. (2026). An Open-Access Dataset of Acute Stress Responses Induced by MAST in Healthy Chinese Individuals. *Scientific Data*. `SCIE · JCR Q1 · 中科院2区`
